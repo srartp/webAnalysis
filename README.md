@@ -88,4 +88,4 @@ The dataset contains 2,000 records and 7 features that track various aspects of 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/website-traffic-analysis.git
+   git clone https://github.com/srartp/webAnalysis.git
